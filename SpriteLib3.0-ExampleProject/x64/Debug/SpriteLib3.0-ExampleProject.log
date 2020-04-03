@@ -1,0 +1,194 @@
+﻿  ExampleBaseScene.cpp
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(88,68): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(88,60): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(110,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(154,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(178,82): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(178,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(199,84): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(199,73): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(254,73): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(254,63): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(345,71): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(345,61): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(363,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(443,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(485,38): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(525,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(565,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(605,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(645,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(685,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(725,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(765,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(805,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(829,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(845,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(885,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(909,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(925,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(965,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1005,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1045,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1085,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1125,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1149,65): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1149,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1165,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1205,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1229,65): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1229,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1245,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1285,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1309,65): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1309,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1325,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1365,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1405,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1445,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1469,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1485,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1525,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1549,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1565,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1589,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1605,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1629,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1645,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1670,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1686,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1710,65): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1710,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1726,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1766,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1806,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1846,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1886,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1926,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(1965,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2005,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2045,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2085,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2125,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2165,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2189,63): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2205,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2229,63): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2245,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2269,63): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2285,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2309,63): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2325,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2366,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2406,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2446,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2486,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2527,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2567,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2608,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2648,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2688,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2728,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2768,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2808,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2848,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2888,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2928,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(2968,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3008,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3048,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3088,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3127,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3167,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3207,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3247,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3287,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3327,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3367,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3407,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3447,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3487,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3527,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3567,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3607,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3647,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3687,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3727,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3767,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3807,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3847,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3887,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3927,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(3967,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4007,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4047,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4087,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4127,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4167,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4207,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4247,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4287,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4327,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4367,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4407,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4447,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4487,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4527,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4567,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4607,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4647,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4687,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4727,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4767,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4807,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4847,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4887,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4927,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(4970,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5010,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5050,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5090,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5130,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5170,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5210,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5250,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5290,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5330,40): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5372,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5412,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5482,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5482,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5500,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5540,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5540,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5558,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5598,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5598,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5616,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5656,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5656,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5674,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5714,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5714,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5732,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5772,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5772,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5790,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5830,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5830,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5848,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5888,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5888,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5906,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5946,72): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5946,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+D:\School\rocks\SpriteLib3.0-ExampleProject\ExampleBaseScene.cpp(5964,39): warning C4312:  'type cast': conversion from 'unsigned int' to 'void *' of greater size
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(111,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(439,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(444,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(449,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(454,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\School\rocks\SpriteLib3.0-ExampleProject\Game.cpp(459,49): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  SpriteLib3.0-ExampleProject.vcxproj -> D:\School\rocks\x64\Debug\SpriteLib3.0-ExampleProject.exe
